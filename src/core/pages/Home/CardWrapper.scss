@@ -1,0 +1,21 @@
+.card-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  overflow: hidden;
+  flex-wrap: wrap;
+  align-content: center;
+}
+
+.button-container {
+  display: flex;
+  justify-content: space-between;
+  button {
+    margin: 0 0.5rem;
+  }
+}
+
+.input-search {
+  width: 50%;
+}

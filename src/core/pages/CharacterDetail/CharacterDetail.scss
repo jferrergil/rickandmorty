@@ -1,0 +1,20 @@
+.details {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    p {
+      font-size: xx-large;
+    }
+  }
+  
+  .image-detail {
+    display: flex;
+    flex-direction: column;
+    img {
+  
+      border-radius: 5%;
+    }
+  }
+
+  
