@@ -16,7 +16,7 @@ export const Footer = () => {
             <FontAwesomeIcon className="icon" icon={faGithub} />
           </a>
           <a
-            href="www.linkedin.com/in/jorge-ferrer-gil"
+            href="https://www.linkedin.com/in/jorge-ferrer-gil"
             target="_blank"
             rel="noreferrer"
           >
